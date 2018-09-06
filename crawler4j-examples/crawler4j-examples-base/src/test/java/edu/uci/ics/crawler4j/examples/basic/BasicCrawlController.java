@@ -98,6 +98,10 @@ public class BasicCrawlController {
      */
         config.setResumableCrawling(false);
 
+//        config.setProxyHost("proxyserver.example.com");
+//        config.setProxyPort(8080);
+//        config.setProxyUsername(username);
+//        config.getProxyPassword(password);
     /*
      * Instantiate the controller for this crawl.
      */
